@@ -1,0 +1,4 @@
+node_modules/
+data/rates/*.json
+!data/rates/.gitkeep
+.env

@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+data/rates/*.json
+test
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+.env

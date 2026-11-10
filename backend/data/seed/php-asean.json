@@ -1,0 +1,16 @@
+{
+  "base": "PHP",
+  "note": "Indicative seed rates (1 PHP = rate units of quote currency). Used only when no earlier rate file exists to roll forward from.",
+  "pairs": {
+    "PHP-BND": { "country": "Brunei Darussalam", "currency": "Brunei Dollar", "rate": 0.0226 },
+    "PHP-KHR": { "country": "Cambodia", "currency": "Cambodian Riel", "rate": 69.35 },
+    "PHP-IDR": { "country": "Indonesia", "currency": "Indonesian Rupiah", "rate": 281.5 },
+    "PHP-LAK": { "country": "Lao PDR", "currency": "Lao Kip", "rate": 375.2 },
+    "PHP-MYR": { "country": "Malaysia", "currency": "Malaysian Ringgit", "rate": 0.0731 },
+    "PHP-MMK": { "country": "Myanmar", "currency": "Myanmar Kyat", "rate": 36.2 },
+    "PHP-SGD": { "country": "Singapore", "currency": "Singapore Dollar", "rate": 0.0226 },
+    "PHP-THB": { "country": "Thailand", "currency": "Thai Baht", "rate": 0.5605 },
+    "PHP-USD": { "country": "Timor-Leste", "currency": "US Dollar", "rate": 0.01724 },
+    "PHP-VND": { "country": "Vietnam", "currency": "Vietnamese Dong", "rate": 450.1 }
+  }
+}
